@@ -47,6 +47,8 @@ ul {
 }
 
 .imagembeneficios {
+	margin: auto;
+	display: block;
 	width: 30%;
-	margin:auto
+	
 }
